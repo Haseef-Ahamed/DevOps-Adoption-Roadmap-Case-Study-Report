@@ -73,17 +73,60 @@ Here’s a step-by-step 6-month roadmap for a startup transitioning to DevOps:
 * Introduce automated testing for faster feedback
 * Outcome: Code is version-controlled, tested, and deployed automatically to a staging environment
 
+**Link**
+https://roadmap.sh/r/git-basics--cicd-branching-merging-prs-automated-tests-and-staging-deployment-for-streamlined-workflow
+
+![alt text](Version_Control.png)
+![alt text](CICD_Concept.png)
+![alt text](Deployment.png)
+![alt text](image.png)
+![alt text](image-1.png)
+
 ### 📅 Month 3–4: Containerization + Infrastructure as Code
 * Learn Docker to package apps into containers
 * Use Docker Compose for local multi-service environments
 * Begin Infrastructure as Code (IaC) with Terraform or Ansible
 * Outcome: Consistent environments across dev/staging/production, scalable infrastructure
 
+**Link**
+https://roadmap.sh/r/docker--docker-compose-for-containers-start-iac-with-terraformansible-outcome-consistent-scalable-devstagingprod-environments
+
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+
 ### 📅 Month 5–6: Monitoring + Security
 * Implement monitoring tools (Prometheus, Grafana, ELK Stack)
 * Introduce logging and alerting for incidents
 * Apply DevSecOps practices (security scanning with tools like SonarQube, Trivy)
 * Outcome: Systems are monitored, secure, and resilient with rapid recovery capabilities
+
+**Link**
+https://roadmap.sh/r/monitoring-with-prometheusgrafanaelk-add-logging--alerts-apply-devsecops-sonarqube-trivy-outcome-secure-resilient-systems
+
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
 
 
 ## 5. Workflow Example (Real-World Case Study Flow)
@@ -117,10 +160,3 @@ To measure DevOps adoption, the following KPIs are tracked:
 Adopting DevOps is not just about tools—it’s about culture, automation, and continuous improvement. Companies like Netflix and Amazon showcase the true power of DevOps, enabling faster delivery, improved resilience, and higher customer satisfaction.
 
 
-Road Map
-
-https://roadmap.sh/r/git-basics--cicd-branching-merging-prs-automated-tests-and-staging-deployment-for-streamlined-workflow
-
-
-<iframe src="https://roadmap.sh/r/embed?id=68afeb064984ef8231f09eca" width="100%" height="500px" frameBorder="0"
-></iframe>
