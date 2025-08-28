@@ -1,8 +1,8 @@
 # 📘 DevOps Adoption Roadmap & Case Study Report
 ## 1. Introduction
-    In today’s fast-paced digital economy, businesses need to deliver software faster, more reliably, and with higher quality. Traditional IT models, which separate development and operations, often cause delays, miscommunication, and higher costs.
+In today’s fast-paced digital economy, businesses need to deliver software faster, more reliably, and with higher quality. Traditional IT models, which separate development and operations, often cause delays, miscommunication, and higher costs.
 
-    DevOps is a cultural and technical shift that integrates Development (Dev) and Operations (Ops) teams to collaborate closely, automate workflows, and continuously improve software delivery.
+DevOps is a cultural and technical shift that integrates Development (Dev) and Operations (Ops) teams to collaborate closely, automate workflows, and continuously improve software delivery.
 
 #### This report explores:
 - Real-world DevOps transformations at Netflix and Amazon
@@ -33,7 +33,7 @@
 
 ## 🔹 Case Study 2: Amazon
 #### Background:
-    Amazon, as one of the largest e-commerce platforms, had to ensure reliability, speed, and innovation while handling millions of daily transactions.
+Amazon, as one of the largest e-commerce platforms, had to ensure reliability, speed, and innovation while handling millions of daily transactions.
 
 #### Challenges Before DevOps:
 - Monolithic applications slowed down innovation
@@ -52,8 +52,8 @@
 * Faster innovation cycles, enabling new services like AWS, Alexa, and Prime.
 
 ## 3. DevOps Maturity Assessment Framework
-    Organizations don’t adopt DevOps overnight—it’s a journey. Below is a 4-stage maturity model:
-    | Stage             | Description                                                    | Characteristics                                                     | Example Tools/Practices                        |
+Organizations don’t adopt DevOps overnight—it’s a journey. Below is a 4-stage maturity model:
+| Stage             | Description                                                    | Characteristics                                                     | Example Tools/Practices                        |
 | ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------- |
 | **1. Initial**    | No DevOps practices, siloed teams                              | Manual deployments, long release cycles                             | Legacy servers, manual testing                 |
 | **2. Developing** | Early adoption, some automation                                | Basic CI/CD, version control, team collaboration                    | Git, Jenkins, Docker basics                    |
