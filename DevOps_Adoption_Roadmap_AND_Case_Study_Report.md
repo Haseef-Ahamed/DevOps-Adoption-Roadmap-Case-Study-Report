@@ -115,3 +115,8 @@ To measure DevOps adoption, the following KPIs are tracked:
 
 ## 8. Conclusion
 Adopting DevOps is not just about tools—it’s about culture, automation, and continuous improvement. Companies like Netflix and Amazon showcase the true power of DevOps, enabling faster delivery, improved resilience, and higher customer satisfaction.
+
+
+Road Map
+
+https://roadmap.sh/r/git-basics--cicd-branching-merging-prs-automated-tests-and-staging-deployment-for-streamlined-workflow
